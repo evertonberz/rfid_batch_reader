@@ -1,5 +1,5 @@
 # RFID batch reader
-Small program to query RFID tags using a ThingMagic reader. 
+This is a program to query RFID tags using a ThingMagic reader. 
 
 It runs in batch mode and makes easy to collect the tag data. 
 You can set the reader power range, a step value to hop the power, and a time limit for each power.
